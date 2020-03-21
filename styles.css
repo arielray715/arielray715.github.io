@@ -2,8 +2,7 @@
 html {
     font-family: candara, verdana;
     background-color: #d9d9d9;
-    
-  }
+    }
   
   .content-footer,
   .masthead-heading,
@@ -15,7 +14,7 @@ html {
   
   .masthead {
       padding: 6em 0;
-      background-image: url('https://lh6.googleusercontent.com/-CHYNCALigT4/VUcNET_FknI/AAAAAAAAEgo/Q8WYE0fsdio/w1358-h300-no/D9xlw7UxTBqQw5sLf8cJ_reef%2Binsp-72.jpg');
+      background-image: url('https://res.cloudinary.com/dge2cjcgb/image/upload/v1584504129/Photos/Sunset_vjvftj.jpg');
       background-repeat: no-repeat;
       background-size: cover;
       background-height: 26em;
@@ -26,7 +25,6 @@ html {
       margin-bottom: 0.1em;
       font-weight: bold;
       color: #d9d9d9;
-  
   }
   
   .masthead-heading {
@@ -44,16 +42,19 @@ html {
   }
   
   
+  
   .content-footer,
   .introduction-section,
   .location-section,
-  .questions-section {
+  .questions-section,
+  .div {
       max-width: 38em;
       margin-left: auto;
       margin-right: auto;
       margin-top: 2em;
       color: #747474;
   }
+  
   
   .social > li {
       display: inline-block;
